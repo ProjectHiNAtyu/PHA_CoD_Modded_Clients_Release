@@ -16,30 +16,55 @@ Call of Duty IW8+ Modded Clients - PHA Edition
  [ Credit ]
 
  || ==================================================================================================== ||
+ 
  ||                                                                                                      ||
+ 
  ||                                                                                                      ||
+ 
  || < Credit >                                                                                           ||
+ 
  ||   - Project created & Main coding                                       : HiNAtyu                    ||
+ 
  ||   - Special support (Base code, Tips, Arxan hint, and all my mentor...) : Sku-111                    ||
+ 
  ||                                                                                                      ||
+ 
  ||   - Network lecture & Steam emulator support                            : rektinator                 ||
+ 
  ||   - System relation                                                     : mjkzy                      ||
+ 
  ||   - Some support , Lobby relations , Arxan helps                        : WantedDeviation            ||
+ 
  ||   - Inspect, refactor, and improve code, BodHQ Owner                    : BodNJenie                  ||
+ 
  ||   - Some LUA debugging reference & good support                         : Lebta2 (Taleb)             ||
+ 
  ||   - LUA decompiler & LUA relations                                      : zhm86                      ||
+ 
  ||                                                                                                      ||
+ 
  ||   - Very helpful offline patch base source                              : h00dbyair                  ||
+ 
  ||   - Basic iw8 system and documentation                                  : Project Donetsk (Sku-111)  ||
+ 
  ||   - Basic t9 system and documentation                                   : Project Defcon (Sku-111)   ||
+ 
  ||   - arxan Bypass base project                                           : mallgrab                   ||
+ 
  ||   - arxan Integrity Checks Infos                                        : momo5502                   ||
+ 
  ||                                                                                                      ||
+ 
  ||   - IW8+ LAN logic & Steam emu first discoverer : .r4v3n's MW19 Beta LAN                             ||
+ 
  ||          The LAN sources used in this project were independently discovered and created by me.       ||
+ 
  ||          However, the first person to discover and release this logic is .r4v3n.                     ||
+ 
  ||          so the credit goes to him                                                                   ||
+ 
  ||                                                                                                      ||
+ 
  ||  ----- ----- ----- -----  ----- ----- ----- -----  ----- ----- ----- -----  ----- ----- ----- -----  ||
 
 
