@@ -186,45 +186,85 @@ If you would like to use the GSC Mod menu introduced on my YouTube channel, plea
  [ Welcome Message (in Console Log top) ]
 
  || This project should only be used with genuine/authorized purchases of Call of Duty.                  ||
+ 
  || We do not tolerate piracy under any circumstances.                                                   ||
+ 
  || Please use within common sense.                                                                      ||
+ 
  ||                                                                                                      ||
+ 
  || This project was initially started for MW2019 version 1.57.                                          ||
+ 
  || The reason was simply that I wanted to see Godzilla again (lol).                                     ||
+ 
  || However, the behavior of Arxan in version 1.57 was very complex and difficult to understand.         ||
+ 
  || Also, I'm not as skilled a client developer as Sku.                                                  ||
+ 
  ||                                                                                                      ||
+ 
  || Therefore, I changed my approach and started developing for version 1.67.                            ||
+ 
  || Thanks to everyone's cooperation and my own efforts,                                                 ||
+ 
  || I was able to continue development without giving up.                                                ||
+ 
  || I don't like waiting for someone else to release something (lol),                                    ||
+ 
  || so I decided to learn offline build techniques myself.                                               ||
+ 
  || As mentioned earlier, this project was completed with the cooperation of many people.                ||
+ 
  || This source code is based on Sku's code, combined with code from h00dbyair.                          ||
+ 
  || Please don't forget their contributions.                                                             ||
+ 
  ||                                                                                                      ||
+ 
  || This project currently supports multiple Call of Duty titles, including MW2019.                      ||
+ 
  || Depending on the build, it works with SP/CP/MP/WZ.                                                   ||
+ 
  || LAN functionality is also implemented thanks to .r4v3n's hint, so you can play with friends.         ||
+ 
  || However, since this project was created for my personal testing,                                     ||
+ 
  || there are many bugs that haven't been fixed.                                                         ||
+ 
  || There may still be many issues, so please be aware of these problems when using it.                  ||
+ 
  ||                                                                                                      ||
+ 
  || Also, a word of warning for those using it for LAN play:                                             ||
+ 
  || My PHA Modded Clients are not a release intended for client/community management.                    ||
+ 
  || I created this client for personal testing to support the development of (BodNJenie) BodHQ Clients.  ||
+ 
  || Please consider LAN as an optional feature, not a primary one.                                       ||
+ 
  || This client was created to stabilize GSC development, its primary purpose is to develop custom GSCs. ||
+ 
  || Please understand and cooperate with this point.                                                     ||
+ 
  ||                                                                                                      ||
+ 
  || Feel free to try it. Feedback is welcome, but I can't guarantee that I will address all issues.      ||
+ 
  || I don't intend to use this tool to operate a client.                                                 ||
+ 
  || It was created purely as a personal hobby.                                                           ||
+ 
  || Enjoy!                                                                                               ||
+ 
  ||                                                                                                      ||
+ 
  || Finally, this source code is always shared with Sku-111, the main developer of Donetsk.              ||
+ 
  || Thank you, Sku, for supporting Donetsk, Defcon!                                                      ||
+ 
  ||                                                                                                      ||
+ 
  ||  ----- ----- ----- -----  ----- ----- ----- -----  ----- ----- ----- -----  ----- ----- ----- -----  ||
 
 
