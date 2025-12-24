@@ -1,3 +1,7 @@
+# The zip files released here are password protected.
+# Please send me a DM on my HiNAtyu Discord or Twitter to get the password.
+# I will answer your questions while I am awake Japan time.
+
 
 ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 Call of Duty IW8+ Modded Clients - PHA Edition
