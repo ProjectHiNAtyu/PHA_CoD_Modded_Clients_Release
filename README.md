@@ -114,9 +114,13 @@ If you would like to use the GSC Mod menu introduced on my YouTube channel, plea
  [ Contact ]
  
  Creator       : HiNAtyu Studio
+ 
  Update date   : 2025/10/10
+ 
  YouTube       : https://www.youtube.com/channel/UCmxJAnVPtkStQVKrvAVMZSw
+ 
  Twitter       : @Hinatapoko_ ( https://x.com/Hinatapoko_ )
+ 
  Discord       : hinatapoko ( https://discordapp.com/users/239453096026046464 )
 
 
@@ -150,8 +154,10 @@ If you would like to use the GSC Mod menu introduced on my YouTube channel, plea
  please join the Discord server below.                                                                
  We look forward to seeing you!                                                                       
                                                                                                       
- * * * * Discord Server * * * *                                                                       
- https://discord.gg/weUkekkMHw                                                                        
+ * * * * Discord Server * * * *
+ 
+ https://discord.gg/weUkekkMHw
+ 
  * * * * * * * * * * * * * * *
 
 
@@ -161,11 +167,16 @@ If you would like to use the GSC Mod menu introduced on my YouTube channel, plea
  [ Promotion 2 ]
  
  I'd be very happy if you could follow, subscribe, like, or comment on my various SNS accounts.
+ 
  If you like my work, I'd be happy if you could sponsor or donate.
+ 
  This will help facilitate the development of new features and fixes.
  
+ 
  Ko-fi : https://ko-fi.com/hinatyustudio
+ 
  BTC   : 32J66dfWi9dqqWHS2RYR9rFCUNBL88vgUR
+ 
  ETH   : 0xaE5D5b3e8E865B2bA676a24eF41d5f4CBD315978
 
 
