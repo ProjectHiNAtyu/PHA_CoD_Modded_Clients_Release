@@ -105,7 +105,10 @@ If you would like to use the GSC Mod menu introduced on my YouTube channel, plea
 
 4. To change your username, open "!profile.ini" in a text editor and change the parameter next to "PlayerName=".
 
-5. Launch the game and enjoy!
+5. If any third-party DLLs that are not included with this PHA Modded Clients package are present, please delete them
+(for example, powerprof.dll, version.dll, etc.).
+
+6. Launch the game and enjoy!
 
 
 
@@ -115,7 +118,7 @@ If you would like to use the GSC Mod menu introduced on my YouTube channel, plea
  
  Creator       : HiNAtyu Studio
  
- Update date   : 2025/10/10
+ Update date   : 2025/12/25
  
  YouTube       : https://www.youtube.com/channel/UCmxJAnVPtkStQVKrvAVMZSw
  
