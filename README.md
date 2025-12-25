@@ -91,6 +91,19 @@ We cannot respond to technical inquiries, such as those regarding the creation o
 Please investigate and resolve any development issues yourself.
 If you would like to use the GSC Mod menu introduced on my YouTube channel, please join the Demonware Emulator Modded Clients "BodHQ" (described below) and wait for it to be released to the public.
 
+As a side note, I have only tested this client on a small number of PCs I own.
+
+- Windows 11 23H2
+- Windows 10 Pro 22H2
+
+I have only tested it on these two operating systems.
+
+Also, these PCs were tested without running any security or cloud software, such as antivirus software or OneDrive.
+
+If you try to use this client on a PC other than these and encounter errors, I generally recommend downgrading or uninstalling unnecessary software.
+
+I have not yet decided whether I will address any crashing feedback I receive.
+
 
 
 =================================================================
