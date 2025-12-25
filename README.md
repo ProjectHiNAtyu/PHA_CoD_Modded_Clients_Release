@@ -67,9 +67,7 @@ If you try to use this client on a PC other than these and encounter errors, I g
 
 I have not yet decided whether I will address any crashing feedback I receive.
 
-
-
-=================================================================
+------------------------------
  
  [ How to use ]
  
@@ -86,25 +84,17 @@ I have not yet decided whether I will address any crashing feedback I receive.
 
 6. Launch the game and enjoy!
 
+------------------------------
+ 
+[ Contact ]
+ 
+- Creator       : HiNAtyu Studio
+- Update date   : 2025/12/25
+- YouTube       : https://www.youtube.com/channel/UCmxJAnVPtkStQVKrvAVMZSw
+- Twitter       : @Hinatapoko_ ( https://x.com/Hinatapoko_ )
+- Discord       : hinatapoko ( https://discordapp.com/users/239453096026046464 )
 
-
-=================================================================
- 
- [ Contact ]
- 
- Creator       : HiNAtyu Studio
- 
- Update date   : 2025/12/25
- 
- YouTube       : https://www.youtube.com/channel/UCmxJAnVPtkStQVKrvAVMZSw
- 
- Twitter       : @Hinatapoko_ ( https://x.com/Hinatapoko_ )
- 
- Discord       : hinatapoko ( https://discordapp.com/users/239453096026046464 )
-
-
-
-=================================================================//
+------------------------------
  
  [ Promotion 1 ]
  
@@ -139,28 +129,21 @@ I have not yet decided whether I will address any crashing feedback I receive.
  
  * * * * * * * * * * * * * * *
 
+------------------------------
+ 
+[ Promotion 2 ]
+ 
+I'd be very happy if you could follow, subscribe, like, or comment on my various SNS accounts.
+ 
+If you like my work, I'd be happy if you could sponsor or donate.
+ 
+This will help facilitate the development of new features and fixes.
+ 
+- Ko-fi : https://ko-fi.com/hinatyustudio
+- BTC   : 32J66dfWi9dqqWHS2RYR9rFCUNBL88vgUR
+- ETH   : 0xaE5D5b3e8E865B2bA676a24eF41d5f4CBD315978
 
-
-=================================================================//
- 
- [ Promotion 2 ]
- 
- I'd be very happy if you could follow, subscribe, like, or comment on my various SNS accounts.
- 
- If you like my work, I'd be happy if you could sponsor or donate.
- 
- This will help facilitate the development of new features and fixes.
- 
- 
- Ko-fi : https://ko-fi.com/hinatyustudio
- 
- BTC   : 32J66dfWi9dqqWHS2RYR9rFCUNBL88vgUR
- 
- ETH   : 0xaE5D5b3e8E865B2bA676a24eF41d5f4CBD315978
-
-
-
-=================================================================//
+------------------------------
 
  [ Welcome Message (in Console Log top) ]
 
