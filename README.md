@@ -27,10 +27,11 @@ Call of Duty IW8+ Modded Clients - PHA Edition
 - arxan Bypass base project                                           : mallgrab
 - arxan Integrity Checks Infos                                        : momo5502
 - 
-- IW8+ LAN logic & Steam emu first discoverer : .r4v3n's MW19 Beta LAN
-The LAN sources used in this project were independently discovered and created by me.
-However, the first person to discover and release this logic is .r4v3n.
-so the credit goes to him
+- IW8+ LAN & Steam emu logic (idea) first discoverer                  : .r4v3n
+- The LAN and Steam emulation sources used in this project were coded by me.
+- .r4v3n has no collaboration and has not contributed anything directly to this project.
+- However, the first person to discover and release this logic is .r4v3n.
+- so the credit goes to him
 
 ------------------------------
 
