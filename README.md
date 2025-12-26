@@ -14,6 +14,9 @@ Call of Duty IW8+ Modded Clients - PHA Edition
 - Project created & Main coding                                       : HiNAtyu
 - Special support (Base code, Tips, Arxan hint, and all my mentor...) : Sku-111
 - 
+- Network lecture & Steam emulator support                            : rektinator
+- Inspect, refactor, and improve code, BodHQ Owner                    : BodNJenie
+- 
 - Basic iw8 system and documentation                                  : Project Donetsk (Sku-111)
 - Basic t9 system and documentation                                   : Project Defcon (Sku-111)
 - arxan Bypass base project                                           : mallgrab
