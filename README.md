@@ -9,32 +9,6 @@ Call of Duty IW8+ Modded Clients - PHA Edition
 
 ------------------------------
 
-[ Credit ]
-
-- Project created & Main coding                                       : HiNAtyu
-- Special support (Base code, Tips, Arxan hint, and all my mentor...) : Sku-111
-- 
-- Network lecture & Steam emulator support                            : rektinator
-- System relation                                                     : mjkzy
-- Some support , Lobby relations , Arxan helps                        : WantedDeviation
-- Inspect, refactor, and improve code, BodHQ Owner                    : BodNJenie
-- Some LUA debugging reference & good support                         : Lebta2 (Taleb)
-- LUA decompiler & LUA relations                                      : zhm86
-- 
-- Very helpful offline patch base source                              : h00dbyair
-- Basic iw8 system and documentation                                  : Project Donetsk (Sku-111)
-- Basic t9 system and documentation                                   : Project Defcon (Sku-111)
-- arxan Bypass base project                                           : mallgrab
-- arxan Integrity Checks Infos                                        : momo5502
-- 
-- IW8+ LAN & Steam emu logic (idea) first discoverer                  : .r4v3n
-- The LAN and Steam emulation sources used in this project were coded by me.
-- .r4v3n has no collaboration and has not contributed anything directly to this project.
-- However, the first person to discover and release this logic is .r4v3n.
-- so the credit goes to him
-
-------------------------------
-
 [ About ]
  
 Thank you for downloading this project.
