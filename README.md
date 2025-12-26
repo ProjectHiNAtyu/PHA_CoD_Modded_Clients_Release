@@ -9,6 +9,18 @@ Call of Duty IW8+ Modded Clients - PHA Edition
 
 ------------------------------
 
+[ Credit ]
+
+- Project created & Main coding                                       : HiNAtyu
+- Special support (Base code, Tips, Arxan hint, and all my mentor...) : Sku-111
+- 
+- Basic iw8 system and documentation                                  : Project Donetsk (Sku-111)
+- Basic t9 system and documentation                                   : Project Defcon (Sku-111)
+- arxan Bypass base project                                           : mallgrab
+- arxan Integrity Checks Infos                                        : momo5502
+
+------------------------------
+
 [ About ]
  
 Thank you for downloading this project.
