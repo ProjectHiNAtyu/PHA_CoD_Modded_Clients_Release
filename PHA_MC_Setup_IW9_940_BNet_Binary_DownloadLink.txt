@@ -1,0 +1,3 @@
+To convert from the Steam version of MWII to the BattleNet version, place this file in the game directory and replace the file.
+
+https://drive.google.com/file/d/1Rwv4tXiVtpERorjJtXz311aUwUB6sxyE/view?usp=drive_link
