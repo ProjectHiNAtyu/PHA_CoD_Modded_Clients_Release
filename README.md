@@ -1,6 +1,8 @@
 # The zip files released here are password protected.
 # Please send me a DM on my HiNAtyu Discord or Twitter to get the password.
 # I will answer your questions while I am awake Japan time.
+# The BodHQ server is a DWEmu client and is not a place for questions about PHA Clients, so please be sure to DM HiNAtyu Discord for inquiries!
+# HiNAtyu Discord ID : hinatapoko
 
 
 ------------------------------
@@ -61,25 +63,18 @@ I have not yet decided whether I will address any crashing feedback I receive.
  
  [ How to use ]
  
-1. Download the mod client DLL from the release page above.
+1. Download the MOD client DLL from the release page above.
 
-2. Unzip the downloaded zip file.
+2. Unzip the downloaded ZIP file.
 
-3. Legally obtain a supported CoD build and place the file in your game directory.
-
-4. To change your username, open "!profile.ini" in a text editor and change the parameter next to "PlayerName=".
-
-5. If any third-party DLLs that are not included with this PHA Modded Clients package are present, please delete them
-(for example, powerprof.dll, version.dll, etc.).
-
-6. Launch the game and enjoy!
+3. Follow the instructions in the included "!readme.txt" file to set up the files.
 
 ------------------------------
  
 [ Contact ]
  
 - Creator       : HiNAtyu Studio
-- Update date   : 2025/12/25
+- Update date   : 2026/01/24
 - YouTube       : https://www.youtube.com/channel/UCmxJAnVPtkStQVKrvAVMZSw
 - Twitter       : @Hinatapoko_ ( https://x.com/Hinatapoko_ )
 - Discord       : hinatapoko ( https://discordapp.com/users/239453096026046464 )
